@@ -204,7 +204,7 @@ php artisan test --parallel
 
 - [Laravel Documentation](https://laravel.com/docs/12.x)
 - [Livewire Documentation](https://livewire.laravel.com/docs)
-- [Livewire Flux Documentation](https://flux.laravel.com/docs)
+- [Livewire Flux Documentation](https://fluxui.dev/docs/installation)
 - [Livewire Volt Documentation](https://livewire.laravel.com/docs/volt)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Pest PHP Documentation](https://pestphp.com/docs)
